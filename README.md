@@ -1,2 +1,1 @@
-# deploy_ai
-article to publish online 
+# AI.Model.Deploy
